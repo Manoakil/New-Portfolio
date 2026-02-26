@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffd976"/>
+      <stop offset="1" stop-color="#ff8aa6"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="16" fill="#fff"/>
+  <circle cx="100" cy="86" r="40" fill="url(#g1)" stroke="#000" stroke-width="4"/>
+  <rect x="40" y="130" width="120" height="34" rx="10" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="100" y="152" text-anchor="middle" font-family="Bangers, Arial" font-size="18" fill="#111">MANO</text>
+</svg>
